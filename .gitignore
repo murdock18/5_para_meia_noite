@@ -1,0 +1,30 @@
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup do editor
+*.bak
+*.tmp
+*.swp
+
+# Arquivos de configurações de editores/IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.cache
+*.pid
+
+# Diretórios de build ou compilação (caso use ferramentas futuramente)
+dist/
+build/
+
+# Ignorar imagens grandes (apenas se necessário)
+*.png
+*.jpg
+*.jpeg
